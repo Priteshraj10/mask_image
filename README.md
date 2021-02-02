@@ -4,24 +4,24 @@
 
 [![HitCount](http://hits.dwyl.com/Priteshraj10/https://githubcom/Priteshraj10/mask_image.svg)](http://hits.dwyl.com/Priteshraj10/https://githubcom/Priteshraj10/mask_image)
 
-![Alt](sample.jpg "First image from the dataset")
+![Alt](sample.jpg)
 
 Run <pre>./viewer.py</pre> to see them with segement overlay.
 
 ## Directories
 
 <pre>
- images/  -- The PNG image files
- masks/ -- PNG segmentation masks (update these!)
- o/p/  -- The outputs in probability from our internal segnet (unreleased, too big)
+ images/  -- PNG image files
+ masks/   -- PNG segmentation masks
+ o/p/     -- The outputs in probability from our internal segnet
 </pre>
 
 ## Categories
 
 <pre>
- 1 - #402020 - road (all parts, anywhere nobody would look at you funny for driving)
- 2 - #ff0000 - lane markings (don't include non lane markings like turn arrows and crosswalks)
+ 1 - #402020 - road
+ 2 - #ff0000 - lane markings
  3 - #808060 - un drivable
- 4 - #00ff66 - movable (vehicles and people/animals)
- 5 - #cc00ff - my car (and anything inside it, including wires, mounts, etc. No reflections)
+ 4 - #00ff66 - movable
+ 5 - #cc00ff - my car
 </pre>
