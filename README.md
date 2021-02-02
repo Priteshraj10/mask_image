@@ -6,7 +6,7 @@
 
 ![Alt](sample.jpg)
 
-Run <pre>./viewer.py</pre> to see them with segement overlay.
+Run <pre>./viewer.py</pre> to see them with segnet overlay.
 
 ## Directories
 
