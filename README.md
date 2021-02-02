@@ -1,7 +1,6 @@
 # Masking
 
-![Completion Progress Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fcomma-pencil-completion-badge.cc.workers.dev%2Fbadge.json)
-
+[![License](https://img.shields.io/github/license/Priteshraj10/mask_image?style=plastic)](http://hits.dwyl.com/Priteshraj10/https://githubcom/Priteshraj10/mask_image)
 [![HitCount](http://hits.dwyl.com/Priteshraj10/https://githubcom/Priteshraj10/mask_image.svg)](http://hits.dwyl.com/Priteshraj10/https://githubcom/Priteshraj10/mask_image)
 
 ![Alt](sample.jpg)
