@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../handwritten_digits_NN" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -69,10 +69,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="1963" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612164479385" />
-    <state x="2289" y="278" key="FileChooserDialogImpl" timestamp="1612164475027">
+    <state x="2289" y="278" key="FileChooserDialogImpl" timestamp="1612414531412">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2289" y="278" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612164475027" />
+    <state x="2289" y="278" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612414531412" />
     <state x="2010" y="168" key="SettingsEditor" timestamp="1612164527051">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
